@@ -1,8 +1,8 @@
 Repo for implementing answers to advent of code 2015 in C
 
- [ ] day 1
+ [X] day 1
 
- [ ] day 2
+ [X] day 2
 
  [ ] day 3
 
