@@ -4,7 +4,7 @@ Repo for implementing answers to advent of code 2015 in C
 
  [X] day 2
 
- [ ] day 3
+ [X] day 3
 
  [ ] day 4
 
